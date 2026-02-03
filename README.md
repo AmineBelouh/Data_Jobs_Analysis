@@ -7,4 +7,4 @@ Performed this analysis multiple times using different tools:
 - [Excel](https://github.com/AmineBelouh/Excel_Data_Jobs_Analysis.git)  
 - [SQL](https://github.com/AmineBelouh/SQL_Data_Jobs_Analysis.git)  
 - [Python](https://github.com/AmineBelouh/Python_Data_Jobs_Analysis.git)
-- [Power BI](https://github.com/AmineBelouh/Power_BI_Data_Jobs_Dashboard.git)
+- [Power BI Dashboard](https://github.com/AmineBelouh/Power_BI_Data_Jobs_Dashboard.git)
